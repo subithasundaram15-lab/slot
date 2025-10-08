@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class SlotappConfig(AppConfig):
+class TimeappConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'slotapp'
+    name = 'timeapp'
